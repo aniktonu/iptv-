@@ -1,0 +1,13 @@
+﻿#EXTM3U
+#EXTINF:-1,Gazi Tv m
+http://103.211.185.98:8082/1/2020/10/14/12/26/23-06120.ts?token=e8b55222e1b0173263129ce1a7fc428599948826-d202090dac9f543d2e052970180c6bba-1602688891-1602678091
+#EXTINF:1,Star Sports 1 m
+http://103.211.185.98:8082/201/2020/10/14/12/25/31-06000.ts?token=6ffefc36c8f6d6cc69dbfa71b3664881ad12fddb-7a8d13b1f42d41afbc1387ef8a51ebdc-1602688862-1602678062
+#EXTINF:-1,Star Sports 1 m
+http://103.211.185.98:8082/25/index.m3u8?token=acf148414898a9a9ceb543554cce719555b7003b-c63d59cd096e7607bf57f98f1dd0cc7e-1602689196-1602678396&remote=43.250.83.246
+#EXTINF:-1,gazi tv b 
+http://bdiptv.net:8080/IPLLiveHD/tracks-v1a1/mono.m3u8?token=024f32279697c5eab3feeb6e74dc6d5ffc5cd58e-d59b5c4d3f63493ca2f9bbc637dc1973-1602689394-1602678594sg.stream/chunks.m3u8
+#EXTINF:-1,s1 ma
+http://172.22.22.76/live/feed1002/index.m3u8
+#EXTINF:-1,s2 ma
+http://172.22.22.76/live/feed1003/index.m3u8
